@@ -1,0 +1,19 @@
+
+{
+  "manifest_version": 3,
+  "name": "Net Spreed Test",
+  "version": "1.0",
+  "description": "Test your internet speed with an awesome design and advanced features!",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "permissions": ["storage"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
