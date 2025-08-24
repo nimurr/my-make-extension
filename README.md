@@ -1,7 +1,7 @@
 
 # Net Spreed Test Chrome Extension
 
-![Uploading image.png…]()
+![Uploading image.png…](https://res.cloudinary.com/nerob/image/upload/v1756020443/Screenshot_1_phkz7u.png)
 
 
 Test your internet speed with a modern, stylish, and functional design.
