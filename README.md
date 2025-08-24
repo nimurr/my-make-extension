@@ -18,3 +18,7 @@ Test your internet speed with a modern, stylish, and functional design.
 3. Enable "Developer Mode".
 4. Click "Load unpacked" and select this folder.
 5. Click the extension icon to start testing your internet speed.
+
+
+
+** Copyright by Nimur Rahman Nerob **
